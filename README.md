@@ -10,7 +10,7 @@
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **DevOps**, **Docker**, **Laravel**, **React**, **React Native**
-- 📫 Reach me: [twitter.com/alireza_ut](https://twitter.com/caneco)
+- 📫 Reach me: [twitter.com/alireza_ut](https://twitter.com/alireza_ut)
 - ⚡️ Fun fact: I'm a huge fan of Turkish Movies
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
