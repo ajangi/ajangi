@@ -7,9 +7,10 @@
 
 - 🏢 I'm currently working at **Snapp Doctor**
 - ⚙️ I use daily: `.php`, `.js`, `.html`
+- 🌱 I’m currently learning **DevOps Engineering**
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **DevOps**, **Docker**, **Laravel**, **React**, **React Native**
+- 💬 Ask me about **DevOps**, **Docker**, **Laravel**, **React**, **React Native**
 - 📫 Reach me: [twitter.com/alireza_ut](https://twitter.com/alireza_ut)
 - ⚡️ Fun fact: I'm a huge fan of Turkish Movies
 <!--
