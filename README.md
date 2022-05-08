@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 #### I'm a Full-Stack Developer working in Tehran, Iran.
+[![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajangi)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### BIO
 
