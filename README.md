@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Sypfony-bdc3c7?style=flat&logo=Symfony"/>
   <img src="https://img.shields.io/badge/-React-bdc3c7?style=flat&logo=React"/>
   <img src="https://img.shields.io/badge/-Redux-bdc3c7?style=flat&logo=Redux"/>
-  <img src="https://img.shields.io/badge/-React Native-bdc3c7?style=flat&logo=React-Native"/>
+  <img src="https://img.shields.io/badge/-ReactNative-bdc3c7?style=flat&logo=React+Native"/>
 </p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
