@@ -29,6 +29,9 @@
   <img src="https://img.shields.io/badge/-React Native-bdc3c7?style=flat&logo=React"/>
   <img src="https://img.shields.io/badge/-Angular-bdc3c7?style=flat&logo=Angular"/>
 </p>
+<p>
+  <img src="https://img.shields.io/badge/-MySql-bdc3c7?style=flat&logo=Mysql"/>
+</p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
