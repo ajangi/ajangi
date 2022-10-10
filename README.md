@@ -42,6 +42,9 @@
   <img src="https://img.shields.io/badge/-Docker-2c3e50?style=flat&logo=Docker&logoColor=ffffff&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Kubernetes-2c3e50?style=flat&logo=Kubernetes&logoColor=ffffff&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Kong Api Gateway-2c3e50?style=flat&logo=Kong&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Graylog-2c3e50?style=flat&logo=Graylog&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Sentry-2c3e50?style=flat&logo=Sentry&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Bash-2c3e50?style=flat&logo=GNU-Bash&logoColor=ffffff&labelColor=34495e"/>
 </p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
