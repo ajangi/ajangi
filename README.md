@@ -36,6 +36,9 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-bdc3c7?style=flat&logo=PostgreSQL"/>
   <img src="https://img.shields.io/badge/-Memcached-bdc3c7?style=flat&logo=Memcached"/>
 </p>
+<p>
+  <img src="https://img.shields.io/badge/-Linux-bdc3c7?style=flat&logo=Linux"/>
+</p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
