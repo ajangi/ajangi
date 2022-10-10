@@ -37,16 +37,16 @@
   <img src="https://img.shields.io/badge/-Memcached-2c3e50?style=flat&logo=Memcached&labelColor=34495e"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/-Linux-2c3e50?style=flat&logo=Linux&logoColor=ffffff&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Nginx-2c3e50?style=flat&logo=Nginx"/>
-  <img src="https://img.shields.io/badge/-Git-2c3e50?style=flat&logo=Git&logoColor=ffffff&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Docker-2c3e50?style=flat&logo=Docker&logoColor=ffffff&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-2c3e50?style=flat&logo=Kubernetes&logoColor=ffffff&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Kong Api Gateway-2c3e50?style=flat&logo=Kong&logoColor=ffffff&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Graylog-2c3e50?style=flat&logo=Graylog&logoColor=ffffff&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Sentry-2c3e50?style=flat&logo=Sentry&logoColor=ffffff&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Bash-2c3e50?style=flat&logo=GNU-Bash&logoColor=ffffff&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Istio-2c3e50?style=flat&logo=Istio&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Linux-2c3e50?style=flat&logo=Linux&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Nginx-2c3e50?style=flat&logo=Nginx&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Git-2c3e50?style=flat&logo=Git&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Docker-2c3e50?style=flat&logo=Docker&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-2c3e50?style=flat&logo=Kubernetes&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Kong Api Gateway-2c3e50?style=flat&logo=Kong&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Graylog-2c3e50?style=flat&logo=Graylog&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Sentry-2c3e50?style=flat&logo=Sentry&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Bash-2c3e50?style=flat&logo=GNU-Bash&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Istio-2c3e50?style=flat&logo=Istio&labelColor=34495e"/>
 </p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
