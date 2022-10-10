@@ -15,9 +15,9 @@
 - ⚡️ Fun fact: I'm a huge fan of Turkish Movies
 ##### Tech
 <p>
-  <img src="https://img.shields.io/badge/-PHP-bdc3c7?style=flat&logo=PHP&logoColor=ffffff&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-GoLang-bdc3c7?style=flat&logo=Go&logoColor=ffffff&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Rust-bdc3c7?style=flat&logo=Rust&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-PHP-2c3e50?style=flat&logo=PHP&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-GoLang-2c3e50?style=flat&logo=Go&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Rust-2c3e50?style=flat&logo=Rust&logoColor=ffffff&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-NodeJs-2c3e50?style=flat&logo=Node.js&logoColor=ffffff&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Python-2c3e50?style=flat&logo=Python&logoColor=ffffff&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Laravel-2c3e50?style=flat&logo=Laravel&logoColor=ffffff&labelColor=34495e"/>
