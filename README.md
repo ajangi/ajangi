@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/-Istio-2c3e50?style=flat&logo=Istio&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-RabbitMQ-2c3e50?style=flat&logo=RabbitMQ&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Kafka-2c3e50?style=flat&logo=Apache-Kafka&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Elastic Search-2c3e50?style=flat&logo=Elasticsearch&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-MySql-2c3e50?style=flat&logo=Mysql&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-MongoDB-2c3e50?style=flat&logo=MongoDB&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Redis-2c3e50?style=flat&logo=Redis&labelColor=34495e"/>
