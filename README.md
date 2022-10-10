@@ -1,8 +1,7 @@
 
 ### Hi there 👋 This is Alireza Jangi ;)
 ![](https://komarev.com/ghpvc/?username=ajangi&color=0069b4)
-##### BIO
-
+<!--
 - 🏢 I'm currently working at **Snapp Doctor**
 - ⚙️ I use daily: `.php`, `.js`, `.html`
 - 🌱 I’m currently learning **DevOps Engineering**
@@ -11,7 +10,7 @@
 - 💬 Ask me about **DevOps**, **Docker**, **Laravel**, **React**, **React Native**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/alireza-jangi-9b280867/) - [E-Mail](mailto:ajangi@hotmail.com)
 - ⚡️ Fun fact: I'm a huge fan of Turkish Movies
-##### Tech
+-->
 <p>
   <img src="https://img.shields.io/badge/-PHP-2c3e50?style=flat&logo=PHP&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-GoLang-2c3e50?style=flat&logo=Go&labelColor=34495e"/>
