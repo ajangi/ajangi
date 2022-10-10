@@ -1,6 +1,8 @@
 
 ## Hi there
-### This is Alireza Jangi ;) ![](https://komarev.com/ghpvc/?username=ajangi&color=0069b4)
+### This is Alireza Jangi ;)
+![](https://komarev.com/ghpvc/?username=ajangi&color=0069b4)
+<br>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ajangi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajangi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ajangi.dev@gmail.com)
