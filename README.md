@@ -3,7 +3,10 @@
 
 #### I'm a Full-Stack Developer working in Tehran, Iran.
 [![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajangi)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+         <br>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        </p>
 ##### BIO
 
 - 🏢 I'm currently working at **Snapp Doctor**
