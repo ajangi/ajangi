@@ -17,6 +17,8 @@
 <p>
   <img src="https://img.shields.io/badge/-PHP-bdc3c7?style=flat&logo=PHP"/>
   <img src="https://img.shields.io/badge/-GoLang-bdc3c7?style=flat&logo=Go"/>
+  <img src="https://img.shields.io/badge/-Rust-bdc3c7?style=flat&logo=Rust"/>
+  <img src="https://img.shields.io/badge/-NodeJs-bdc3c7?style=flat&logo=Node"/>
   <img src="https://img.shields.io/badge/-Laravel-bdc3c7?style=flat&logo=Laravel"/>
   <img src="https://img.shields.io/badge/-Lumen-bdc3c7?style=flat&logo=Lumen"/>
   <img src="https://img.shields.io/badge/-Sypfony-bdc3c7?style=flat&logo=Symfony"/>
