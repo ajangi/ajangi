@@ -1,7 +1,5 @@
 
-### Hi there 👋
-
-#### I'm a Full-Stack Developer working in Tehran, Iran.
+### Hi there 👋 This is Alireza Jangi ;)
 ![](https://komarev.com/ghpvc/?username=ajangi&color=0069b4)
 ##### BIO
 
