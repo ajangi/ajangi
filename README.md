@@ -15,26 +15,26 @@
 - ⚡️ Fun fact: I'm a huge fan of Turkish Movies
 ##### Tech
 <p>
-  <img src="https://img.shields.io/badge/-PHP-bdc3c7?style=flat&logo=PHP"/>
-  <img src="https://img.shields.io/badge/-GoLang-bdc3c7?style=flat&logo=Go"/>
-  <img src="https://img.shields.io/badge/-Rust-bdc3c7?style=flat&logo=Rust"/>
-  <img src="https://img.shields.io/badge/-NodeJs-bdc3c7?style=flat&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-Python-bdc3c7?style=flat&logo=Python"/>
-  <img src="https://img.shields.io/badge/-Laravel-bdc3c7?style=flat&logo=Laravel"/>
-  <img src="https://img.shields.io/badge/-Lumen-bdc3c7?style=flat&logo=Lumen"/>
-  <img src="https://img.shields.io/badge/-Sypfony-bdc3c7?style=flat&logo=Symfony"/>
-  <img src="https://img.shields.io/badge/-ExpressJs-bdc3c7?style=flat&logo=Express"/>
-  <img src="https://img.shields.io/badge/-React-bdc3c7?style=flat&logo=React"/>
-  <img src="https://img.shields.io/badge/-Redux-bdc3c7?style=flat&logo=Redux"/>
-  <img src="https://img.shields.io/badge/-React Native-bdc3c7?style=flat&logo=React"/>
-  <img src="https://img.shields.io/badge/-Angular-bdc3c7?style=flat&logo=Angular"/>
+  <img src="https://img.shields.io/badge/-PHP-bdc3c7?style=flat&logo=PHP&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-GoLang-bdc3c7?style=flat&logo=Go&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Rust-bdc3c7?style=flat&logo=Rust&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-NodeJs-2c3e50?style=flat&logo=Node.js&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Python-2c3e50?style=flat&logo=Python&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Laravel-2c3e50?style=flat&logo=Laravel&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Lumen-2c3e50?style=flat&logo=Lumen&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Sypfony-2c3e50?style=flat&logo=Symfony&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-ExpressJs-2c3e50?style=flat&logo=Express&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-React-2c3e50?style=flat&logo=React&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Redux-2c3e50?style=flat&logo=Redux&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-React Native-2c3e50?style=flat&logo=React&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Angular-2c3e50?style=flat&logo=Angular&logoColor=ffffff&labelColor=34495e"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/-MySql-bdc3c7?style=flat&logo=Mysql"/>
-  <img src="https://img.shields.io/badge/-MongoDB-bdc3c7?style=flat&logo=MongoDB"/>
-  <img src="https://img.shields.io/badge/-Redis-bdc3c7?style=flat&logo=Redis"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-bdc3c7?style=flat&logo=PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-Memcached-bdc3c7?style=flat&logo=Memcached"/>
+  <img src="https://img.shields.io/badge/-MySql-2c3e50?style=flat&logo=Mysql&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-MongoDB-2c3e50?style=flat&logo=MongoDB&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Redis-2c3e50?style=flat&logo=Redis&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-2c3e50?style=flat&logo=PostgreSQL&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Memcached-2c3e50?style=flat&logo=Memcached&logoColor=ffffff&labelColor=34495e"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/-Linux-2c3e50?style=flat&logo=Linux&logoColor=ffffff&labelColor=34495e"/>
