@@ -15,10 +15,13 @@
 - ⚡️ Fun fact: I'm a huge fan of Turkish Movies
 ##### Tech
 <p>
-  <img src="https://img.shields.io/badge/-PHP-ecf0f1?style=flat&logo=PHP"/>
-  <img src="https://img.shields.io/badge/-Laravel-ecf0f1?style=flat&logo=Laravel"/>
+  <img src="https://img.shields.io/badge/-PHP-bdc3c7?style=flat&logo=PHP"/>
+  <img src="https://img.shields.io/badge/-Laravel-bdc3c7?style=flat&logo=Laravel"/>
   <img src="https://img.shields.io/badge/-Lumen-bdc3c7?style=flat&logo=Lumen"/>
   <img src="https://img.shields.io/badge/-Sypfony-bdc3c7?style=flat&logo=Symfony"/>
+  <img src="https://img.shields.io/badge/-React-bdc3c7?style=flat&logo=React"/>
+  <img src="https://img.shields.io/badge/-Redux-bdc3c7?style=flat&logo=Redux"/>
+  <img src="https://img.shields.io/badge/-React Native-bdc3c7?style=flat&logo=React-Native"/>
 </p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
