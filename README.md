@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/-Graylog-2c3e50?style=flat&logo=Graylog&logoColor=ffffff&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Sentry-2c3e50?style=flat&logo=Sentry&logoColor=ffffff&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Bash-2c3e50?style=flat&logo=GNU-Bash&logoColor=ffffff&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Istio-2c3e50?style=flat&logo=Istio&logoColor=ffffff&labelColor=34495e"/>
 </p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
