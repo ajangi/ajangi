@@ -28,15 +28,6 @@
   <img src="https://img.shields.io/badge/-React-2c3e50?style=flat&logo=React&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Redux-2c3e50?style=flat&logo=Redux&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-React Native-2c3e50?style=flat&logo=React&labelColor=34495e"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/-MySql-2c3e50?style=flat&logo=Mysql&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-MongoDB-2c3e50?style=flat&logo=MongoDB&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Redis-2c3e50?style=flat&logo=Redis&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-2c3e50?style=flat&logo=PostgreSQL&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Memcached-2c3e50?style=flat&logo=Memcached&labelColor=34495e"/>
-</p>
-<p>
   <img src="https://img.shields.io/badge/-Linux-2c3e50?style=flat&logo=Linux&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Nginx-2c3e50?style=flat&logo=Nginx&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Git-2c3e50?style=flat&logo=Git&labelColor=34495e"/>
@@ -47,6 +38,11 @@
   <img src="https://img.shields.io/badge/-Sentry-2c3e50?style=flat&logo=Sentry&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Bash-2c3e50?style=flat&logo=GNU-Bash&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Istio-2c3e50?style=flat&logo=Istio&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-MySql-2c3e50?style=flat&logo=Mysql&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-MongoDB-2c3e50?style=flat&logo=MongoDB&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Redis-2c3e50?style=flat&logo=Redis&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-2c3e50?style=flat&logo=PostgreSQL&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Memcached-2c3e50?style=flat&logo=Memcached&labelColor=34495e"/>
 </p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
