@@ -14,7 +14,7 @@
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/alireza-jangi-9b280867/) - [E-Mail](mailto:ajangi@hotmail.com)
 - ⚡️ Fun fact: I'm a huge fan of Turkish Movies
 ##### Tech
-<img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=PHP"/>
+<img src="https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP"/>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
