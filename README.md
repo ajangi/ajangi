@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 #### I'm a Full-Stack Developer working in Tehran, Iran.
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
+![](https://komarev.com/ghpvc/?username=ajangi&color=0069b4)
 [![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajangi)](https://github.com/anuraghazra/github-readme-stats)
 ##### BIO
 
