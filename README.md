@@ -19,9 +19,11 @@
   <img src="https://img.shields.io/badge/-GoLang-bdc3c7?style=flat&logo=Go"/>
   <img src="https://img.shields.io/badge/-Rust-bdc3c7?style=flat&logo=Rust"/>
   <img src="https://img.shields.io/badge/-NodeJs-bdc3c7?style=flat&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/-Python-bdc3c7?style=flat&logo=Python"/>
   <img src="https://img.shields.io/badge/-Laravel-bdc3c7?style=flat&logo=Laravel"/>
   <img src="https://img.shields.io/badge/-Lumen-bdc3c7?style=flat&logo=Lumen"/>
   <img src="https://img.shields.io/badge/-Sypfony-bdc3c7?style=flat&logo=Symfony"/>
+  <img src="https://img.shields.io/badge/-ExpressJs-bdc3c7?style=flat&logo=Express"/>
   <img src="https://img.shields.io/badge/-React-bdc3c7?style=flat&logo=React"/>
   <img src="https://img.shields.io/badge/-Redux-bdc3c7?style=flat&logo=Redux"/>
   <img src="https://img.shields.io/badge/-React Native-bdc3c7?style=flat&logo=React"/>
