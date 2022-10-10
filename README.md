@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-2c3e50?style=flat&logo=PostgreSQL&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Ubuntu-2c3e50?style=flat&logo=Ubuntu&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Digital Ocean-2c3e50?style=flat&logo=DigitalOcean&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Socket.io-2c3e50?style=flat&logo=Socket.io&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Jira-2c3e50?style=flat&logo=Jira&labelColor=34495e"/>
 </p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
