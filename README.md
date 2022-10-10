@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/-PHP-ecf0f1?style=flat&logo=PHP"/>
   <img src="https://img.shields.io/badge/-Laravel-ecf0f1?style=flat&logo=Laravel"/>
   <img src="https://img.shields.io/badge/-Lumen-ecf0f1?style=flat&logo=Lumen"/>
+  <img src="https://img.shields.io/badge/-Sypfony-ecf0f1?style=flat&logo=Symfony"/>
 </p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
