@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/-Memcached-bdc3c7?style=flat&logo=Memcached"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/-Linux-bdc3c7?style=flat&logo=Linux"/>
+  <img src="https://img.shields.io/badge/-Linux-bdc3c7?style=flat&logo=Linux&logoColor=e74c3c"/>
 </p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
