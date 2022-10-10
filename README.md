@@ -31,6 +31,10 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/-MySql-bdc3c7?style=flat&logo=Mysql"/>
+  <img src="https://img.shields.io/badge/-MongoDB-bdc3c7?style=flat&logo=MongoDB"/>
+  <img src="https://img.shields.io/badge/-Redis-bdc3c7?style=flat&logo=Redis"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-bdc3c7?style=flat&logo=PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-Memcached-bdc3c7?style=flat&logo=Memcached"/>
 </p>
 <!--
 **ajangi/ajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
