@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/-React-2c3e50?style=flat&logo=React&logoColor=ffffff&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Redux-2c3e50?style=flat&logo=Redux&logoColor=ffffff&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-React Native-2c3e50?style=flat&logo=React&logoColor=ffffff&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Angular-2c3e50?style=flat&logo=Angular&logoColor=ffffff&labelColor=34495e"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/-MySql-2c3e50?style=flat&logo=Mysql&logoColor=ffffff&labelColor=34495e"/>
