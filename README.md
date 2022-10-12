@@ -15,13 +15,23 @@
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/alireza-jangi-9b280867/) - [E-Mail](mailto:ajangi@hotmail.com)
 - ⚡️ Fun fact: I'm a huge fan of Turkish Movies
 -->
+#### Languages:
 <p>
   <img src="https://img.shields.io/badge/-PHP-2c3e50?style=flat&logo=PHP&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-GoLang-2c3e50?style=flat&logo=Go&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Rust-2c3e50?style=flat&logo=Rust&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-JavaScript-2c3e50?style=flat&logo=Javascript&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-NodeJs-2c3e50?style=flat&logo=Node.js&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Python-2c3e50?style=flat&logo=Python&labelColor=34495e"/>
+</p>
+#### Databases:
+<p>
+  <img src="https://img.shields.io/badge/-MySql-2c3e50?style=flat&logo=Mysql&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-MongoDB-2c3e50?style=flat&logo=MongoDB&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Redis-2c3e50?style=flat&logo=Redis&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-2c3e50?style=flat&logo=PostgreSQL&labelColor=34495e"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-NodeJs-2c3e50?style=flat&logo=Node.js&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Laravel-2c3e50?style=flat&logo=Laravel&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Lumen-2c3e50?style=flat&logo=Lumen&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Sypfony-2c3e50?style=flat&logo=Symfony&&labelColor=34495e"/>
@@ -42,10 +52,6 @@
   <img src="https://img.shields.io/badge/-RabbitMQ-2c3e50?style=flat&logo=RabbitMQ&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Kafka-2c3e50?style=flat&logo=Apache-Kafka&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Elastic Search-2c3e50?style=flat&logo=Elasticsearch&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-MySql-2c3e50?style=flat&logo=Mysql&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-MongoDB-2c3e50?style=flat&logo=MongoDB&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Redis-2c3e50?style=flat&logo=Redis&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-2c3e50?style=flat&logo=PostgreSQL&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Ubuntu-2c3e50?style=flat&logo=Ubuntu&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Digital Ocean-2c3e50?style=flat&logo=DigitalOcean&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Socket.io-2c3e50?style=flat&logo=Socket.io&labelColor=34495e"/>
