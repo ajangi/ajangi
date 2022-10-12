@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/-Laravel-2c3e50?style=flat&logo=Laravel&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Lumen-2c3e50?style=flat&logo=Lumen&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Sypfony-2c3e50?style=flat&logo=Symfony&&labelColor=34495e"/>
+    <img src="https://img.shields.io/badge/-NodeJs-2c3e50?style=flat&logo=Node.js&labelColor=34495e"/
   <img src="https://img.shields.io/badge/-React-2c3e50?style=flat&logo=React&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-React Native-2c3e50?style=flat&logo=React&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-ExpressJs-2c3e50?style=flat&logo=Express&labelColor=34495e"/>
@@ -44,8 +45,9 @@
   <img src="https://img.shields.io/badge/-FastAPI-2c3e50?style=flat&logo=FastAPI&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Next.JS-2c3e50?style=flat&logo=Next.js&labelColor=34495e"/>
 </p>
+
+#### Other Technologies: 
 <p>
-  <img src="https://img.shields.io/badge/-NodeJs-2c3e50?style=flat&logo=Node.js&labelColor=34495e"/
   <img src="https://img.shields.io/badge/-Redux-2c3e50?style=flat&logo=Redux&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Linux-2c3e50?style=flat&logo=Linux&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Nginx-2c3e50?style=flat&logo=Nginx&labelColor=34495e"/>
