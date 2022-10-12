@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ajangi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-jangi-9b280867/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ajangi.dev@gmail.com)
-[![Talk To Me!](https://img.shields.io/badge/-Talk%20To%20Me-c14438?style=flat&logo=google-meet&logoColor=white)](mailto:ajangi.dev@gmail.com)
+[![Talk To Me!](https://img.shields.io/badge/-Talk%20To%20Me-0094F5?style=flat&logo=google-meet&logoColor=white)](mailto:ajangi.dev@gmail.com)
 <!--
 - 🏢 I'm currently working at **Snapp Doctor**
 - ⚙️ I use daily: `.php`, `.js`, `.html`
