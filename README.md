@@ -1,9 +1,9 @@
 ![Header](./github-header-image.png)
 ![](https://komarev.com/ghpvc/?username=ajangi&color=0069b4)
-<p>
+<div style="display=flex;">
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068"></a>
 <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-</p>
+</div>
 <br>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ajangi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-jangi-9b280867/)
