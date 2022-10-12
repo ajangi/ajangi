@@ -1,6 +1,4 @@
 ![Header](./github-header-image.png)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ajangi&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajangi&layout=compact)
 <br>
 ![](https://komarev.com/ghpvc/?username=ajangi&color=0069b4)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ajangi)
