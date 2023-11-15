@@ -16,27 +16,24 @@
 <p>
   <img src="https://img.shields.io/badge/-PHP-2c3e50?style=flat&logo=PHP&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-GoLang-2c3e50?style=flat&logo=Go&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Rust-2c3e50?style=flat&logo=Rust&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-JavaScript-2c3e50?style=flat&logo=Javascript&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Python-2c3e50?style=flat&logo=Python&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-MySql-2c3e50?style=flat&logo=Mysql&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-MongoDB-2c3e50?style=flat&logo=MongoDB&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Redis-2c3e50?style=flat&logo=Redis&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-2c3e50?style=flat&logo=PostgreSQL&labelColor=34495e"/>
-</p>
-<!--
-<p>
   <img src="https://img.shields.io/badge/-Laravel-2c3e50?style=flat&logo=Laravel&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Lumen-2c3e50?style=flat&logo=Lumen&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Sypfony-2c3e50?style=flat&logo=Symfony&&labelColor=34495e"/>
-    <img src="https://img.shields.io/badge/-NodeJs-2c3e50?style=flat&logo=Node.js&labelColor=34495e"/
+  <img src="https://img.shields.io/badge/-NodeJs-2c3e50?style=flat&logo=Node.js&labelColor=34495e"/
   <img src="https://img.shields.io/badge/-React-2c3e50?style=flat&logo=React&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-React Native-2c3e50?style=flat&logo=React&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-ExpressJs-2c3e50?style=flat&logo=Express&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Django-2c3e50?style=flat&logo=Django&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-FastAPI-2c3e50?style=flat&logo=FastAPI&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Next.JS-2c3e50?style=flat&logo=Next.js&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-MySql-2c3e50?style=flat&logo=Mysql&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-MongoDB-2c3e50?style=flat&logo=MongoDB&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Redis-2c3e50?style=flat&logo=Redis&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-2c3e50?style=flat&logo=PostgreSQL&labelColor=34495e"/>
 </p>
+<!--
 <p>
   <img src="https://img.shields.io/badge/-Redux-2c3e50?style=flat&logo=Redux&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Linux-2c3e50?style=flat&logo=Linux&labelColor=34495e"/>
