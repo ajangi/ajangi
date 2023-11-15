@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-<br>
 ![](https://komarev.com/ghpvc/?username=ajangi&color=0069b4)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ajangi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-jangi-9b280867/)
